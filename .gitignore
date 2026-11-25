@@ -1,0 +1,6 @@
+# dot files
+.cache/
+.vscode/
+# build files
+build/
+bin/
